@@ -64,3 +64,16 @@ h6 {
   bottom: 0;
   max-height: 25vh;
 }
+
+.bg {
+  /* The image used */
+  background-image: url("../img/bg.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
