@@ -85,4 +85,10 @@ h6 {
 .middle-overlay {
   font-family: 'The Girl Next Door', cursive;
   font-size: 3em;
+  text-shadow: #c437e7 1px 0 10px, #379de7 1px 0 10px;
+}
+
+.middle-block-thing {
+  position: absolute;
+  bottom: 0;
 }
