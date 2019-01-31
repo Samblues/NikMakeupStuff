@@ -93,3 +93,9 @@ h6 {
   position: absolute;
   bottom: 0;
 }
+
+.orange.skintone {
+  background-color: #eeaf8c !important;}
+
+.red.glasscolour {
+  background-color: #a80a09 !important;}
