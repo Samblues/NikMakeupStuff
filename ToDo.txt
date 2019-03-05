@@ -1,13 +1,29 @@
-Wanted:
+Minimalistic design, 70% photos 30% text
+
 Homepage
-Ability to book slots - Live calendar 
-Examples of work
+About
+Portfolio - Show current work
+Blog section ability to add blog posts
+theme - skin colour, red glasses
+Secret Login - for blog posting
 
-Plan:
-Homepage - social links, logo, slogan
-Same colour scheme as logo background? W/ White text
+
+Location - 5 mins from newstreet
+Right next to parking
+
+One.com - LostInLashland.com
 
 
-Decisions:
-Colour Scheme, 
-What fonts
+
+JOURNEY WEBSITE
+- What we do vs Other people do
+- 
+
+What we need:
+Message about what you do vs what they do
+- problems with the current market
+- how long they last
+
+Like a customer journey but through the website.
+
+About page about how you found how bad they are for you.
